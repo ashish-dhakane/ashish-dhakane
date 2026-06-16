@@ -23,4 +23,4 @@ panic → force push → regret.
 </div>
 
 ## 📈 Activity Graph
-![Samarth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samarth3101&theme=github-dark&hide_border=true&height=300&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f85149&area=true&area_color=58a6ff)
+![Ashish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samarth3101&theme=github-dark&hide_border=true&height=300&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f85149&area=true&area_color=58a6ff)
